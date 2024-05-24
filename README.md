@@ -36,5 +36,9 @@ Then select your ROI.
 ## Note
 
 This program is designed to work with video files. The user is required to select the ROI before the program starts processing the video for lane detection.  
-``canny.py` Visual Canny Edge Detection works. command: `python canny.py {$path_to_your_video}`
+`canny.py` Visual Canny Edge Detection works. command: `python canny.py {$path_to_your_video}`   
+
 ![canny work](./display/canny.png)
+
+## TODO
+- [ ] Add more useful GUI for this project.
